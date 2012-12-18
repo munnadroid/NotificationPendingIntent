@@ -1,4 +1,5 @@
-Example : NotificationPendingIntent
+NotificationPendingIntent
 =========================
 
-Android status bar notification using PendingIntent
+-Sample android applicaton 
+-Android status bar notification using PendingIntent
